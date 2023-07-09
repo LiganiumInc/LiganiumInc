@@ -3,8 +3,8 @@
 <h1 align="center">Hi 👋, I'm Bernardin LIGAN </h1>
 <h3 align="center">I am proficient in computer vision, Times series, and MLOps. I also have a love for AI-based solutions that support the Sustainable Development Goals (SDGs)</h3>
 <img align="right" alt ="Data" width ="400" src ="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif">
-- 👨‍💻 I’m currently working on projects that combine **AI and remote sensing**
 
+- 👨‍💻 I’m currently working on projects that combine **AI and remote sensing**
 - 💬 Ask me about **Python, Tensorflow, Django**
 
 <h3 align="left"> 🤝 Connect with me:</h3>

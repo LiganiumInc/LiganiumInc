@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Bernardin LIGAN </h1>
 <h3 align="center">I am proficient in computer vision, Times series, and MLOps. I also have a love for AI-based solutions that support the Sustainable Development Goals (SDGs)</h3>
-<img align="right" alt ="Data" width ="200" height = "100" src ="https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif?format=750w">
+<img align="right" alt ="Data" width ="400" height = "200" src ="https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif?format=750w">
 
 - 👨‍💻 I’m currently working on projects that combine **AI and remote sensing**
 - 💬 Ask me about **Python, Tensorflow, Django**

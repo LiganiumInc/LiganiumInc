@@ -1,13 +1,13 @@
 [![MasterHead](https://omdena.com/wp-content/uploads/2021/10/web-banner.png)]
 
-<h1 align="center">Hi 👋, I'm Bernardin LIGAN (aka LIGANIUM)</h1>
-<h3 align="center">A Data Science Student passionate by Artificial Intelligence</h3>
+<h1 align="center">Hi 👋, I'm Bernardin LIGAN </h1>
+<h3 align="center">I am proficient in computer vision, Times series, and MLOps. I also have a love for AI-based solutions that support the Sustainable Development Goals (SDGs)</h3>
 <img align="right" alt ="Data" width ="400" src ="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif">
-- 🌱 I’m currently learning **Apache Airflow, MLops**
+- 👨‍💻 I’m currently working on projects that combine **AI and remote sensing**
 
 - 💬 Ask me about **Python, Tensorflow, Django**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> 🤝 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bernardinligan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bernardinligan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bernardin-ligan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bernardin-ligan" height="30" width="40" /></a>

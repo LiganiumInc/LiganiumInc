@@ -1,4 +1,4 @@
-[![MasterHead](https://omdena.com/wp-content/uploads/2021/10/web-banner.png)]
+[![MasterHead](banner_HSI.jpg)]
 
 <h1 align="center">Hi 👋, I'm Bernardin LIGAN </h1>
 <p>I am a data scientist driven by a commitment to creating value. My passion lies in leveraging data and artificial intelligence to address challenges associated with sustainable development. Currently, I am in the pre-doctoral phase at UM6P Vanguard Center, where my focus involves the application of deep learning techniques to analyze hyperspectral satellite images</p>
